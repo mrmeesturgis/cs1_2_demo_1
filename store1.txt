@@ -1,0 +1,10 @@
+"I will continue to use them especially for copying." staff: 5/5, cleanliness 3/5, selection: 4/5
+"He went through my report and removed all negative entries" staff: 5/5, cleanliness 2/5, selection: 5/5
+"They told me this after I made a non-refundable purchase based on their promise!" staff: 2/5, cleanliness 3/5, selection: 1/5
+"This is one of the best decisions I have made." staff: 5/5, cleanliness 5/5, selection: 5/5
+"I recently went on for a very simple print job and the kid did not know what he was doing." staff: 1/5, cleanliness 3/5, selection: 2/5
+"Great service, but a little slow." staff: 5/5, cleanliness 2/5, selection: 3/5
+"I'm happy with what I got. A nice store." staff: 4/5, cleanliness 4/5, selection: 5/5
+"You HAVE to try this place. They treat you like kings." staff: 5/5, cleanliness 5/5, selection: 5/5
+"Left a mess in an aisle for 30 mins. I sat there and waited, just to see..." staff: 3/5, cleanliness 1/5, selection: 4/5
+"What a fantastic store!" staff: 5/5, cleanliness 4/5, selection: 5/5
